@@ -1,0 +1,10 @@
+pyTelegramBotAPI
+instaloader
+requests[socks]
+PySocks
+pyotp
+requests
+telebot
+openpyxl
+urllib3
+colorama
